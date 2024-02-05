@@ -30,6 +30,11 @@ To run the project, follow these steps:
 * Responsive design
 * Separate CSS files for styling each component
 
+## use the routes paths for endpoints to the pages
+* loginpage -> `localhost:3000/`
+* user data -> `localhost:3000/users-info`
+* add new user -> `localhost:3000/add-user`
+
 # Dependencies
 * React
 * React Router Dom
